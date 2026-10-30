@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-e-invoicing-peppol-bis-billing-3-ubl-sanitizer-skill",
+  "version": "1.0.0",
+  "title": "PEPPOL BIS Billing 3.0 UBL e-Invoicing Sanitizer Skill",
+  "category": "Agentic Commerce (e-Invoicing / Tax Compliance)",
+  "description": "Validates European PEPPOL BIS Billing 3.0 UBL 2.1 XML invoices against CEN/TC 434 and PEPPOL Schematron business rules (BR-CO-15, BR-08, EAS prefix).",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "validate_and_sanitize_peppol_ubl"
+  ],
+  "dependencies": []
+}
